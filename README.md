@@ -9,3 +9,4 @@ Resolution of algorithmic problems from the [Prologin](http://prologin.org/) pla
 [Jump](demi_finale_2014/03_jump.scala) |
 [Voleurs !](demi_finale_2014/04_voleurs.scala) |
 [Néologisme](demi_finale_2014/05_neologisme.scala) |
+[Réarrangement](demi_finale_2014/06_rearrangement.scala) |
